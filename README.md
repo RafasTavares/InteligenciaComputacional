@@ -1,2 +1,9 @@
-# InteligenciaComputacional
-Implementação de algoritmos para a disciplina de inteligência computacional
+# Inteligência Computacional
+> Implementação de algoritmos para a disciplina de inteligência computacional.
+
+### Algoritmos de agrupamento
+* K-means
+* K-medoids
+
+---
+###### *Implementação feita na liguagem R*
